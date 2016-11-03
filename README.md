@@ -1,1 +1,2 @@
 # gradingCI
+After founding and growing my high school organization, the Circuitry Institute, into a size of 700 attendees, grading exams quickly proved to be exceptionally difficult and time-consuming. As a result, I created this program to deal with the hard, senseless work so that my team and I could focus on the more creative aspects of the organization to further nurture it and its constituents.
